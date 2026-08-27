@@ -11,6 +11,8 @@
 
 未来，有道排盘将持续完善算法模型，探索人工智能等新技术在传统民俗典籍整理、案例辅助检索等场景的融合应用，打造更为专业、纯粹的国学数字化研学平台。
 
+ <img width="400" height="900" alt="image" src="https://github.com/nftsharing/mingli_AD/blob/main/%E4%B8%89%E5%90%88.jpg" />
 
-https://github.com/nftsharing/mingli_AD/blob/main/%E4%B8%89%E5%90%88.jpg
+
+
 
